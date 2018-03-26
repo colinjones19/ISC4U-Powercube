@@ -1,3 +1,6 @@
+// March 17,2018
+// COlin Jones
+// Finds power cube and draws square around it.
 using System;
 using System.Collections.Generic;
 using System.Linq;
